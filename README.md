@@ -12,6 +12,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
+The libraries used in this project are:
+        	cookie-though		        -->npm install --save cookie-though
+	        Cookie from ng2-cookies	-->npm install ng2-cookies
+	        GoogleTagManagerService	-->npm i angular-google-tag-manager
+
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
